@@ -1,0 +1,694 @@
+recovered_name	original_obfuscated_name	kind	detail
+orchard.config.CloudConfigManager	q96.x.IlIIllIll	core	identified from direct evidence
+orchard.config.LegacyConfigMigration	q96.x.IIlllIlI	core	identified from direct evidence
+orchard.core.Category	q96.x.IlIIIIIII	core	identified from direct evidence
+orchard.core.ClientEntrypoint	q96.x.llIIlIIl	core	identified from direct evidence
+orchard.core.MainEntrypoint	q96.x.llIIIll	core	identified from direct evidence
+orchard.core.ModuleBase	q96.x.lIlIlIII	core	identified from direct evidence
+orchard.core.StringFactory	q96.x.lIllIIII	core	identified from direct evidence
+orchard.core.Theme	q96.x.lllIllI	core	identified from direct evidence
+orchard.internal.I	q96.x.I	unidentified	
+orchard.internal.II	q96.x.II	unidentified	
+orchard.internal.III	q96.x.III	unidentified	
+orchard.internal.IIIII	q96.x.IIIII	unidentified	
+orchard.internal.IIIIII	q96.x.IIIIII	unidentified	
+orchard.internal.IIIIIIII	q96.x.IIIIIIII	unidentified	
+orchard.internal.IIIIIIIII	q96.x.IIIIIIIII	unidentified	
+orchard.internal.IIIIIIIIl	q96.x.IIIIIIIIl	unidentified	
+orchard.internal.IIIIIIIl	q96.x.IIIIIIIl	unidentified	
+orchard.internal.IIIIIIIlI	q96.x.IIIIIIIlI	unidentified	
+orchard.internal.IIIIIIl	q96.x.IIIIIIl	unidentified	
+orchard.internal.IIIIIIlIl	q96.x.IIIIIIlIl	unidentified	
+orchard.internal.IIIIIIll	q96.x.IIIIIIll	unidentified	
+orchard.internal.IIIIIIllI	q96.x.IIIIIIllI	unidentified	
+orchard.internal.IIIIIIlll	q96.x.IIIIIIlll	unidentified	
+orchard.internal.IIIIIlI	q96.x.IIIIIlI	unidentified	
+orchard.internal.IIIIIlII	q96.x.IIIIIlII	unidentified	
+orchard.internal.IIIIIlIII	q96.x.IIIIIlIII	unidentified	
+orchard.internal.IIIIIll	q96.x.IIIIIll	unidentified	
+orchard.internal.IIIIIllI	q96.x.IIIIIllI	unidentified	
+orchard.internal.IIIIIllII	q96.x.IIIIIllII	unidentified	
+orchard.internal.IIIIIlllI	q96.x.IIIIIlllI	unidentified	
+orchard.internal.IIIIlI	q96.x.IIIIlI	unidentified	
+orchard.internal.IIIIlII	q96.x.IIIIlII	unidentified	
+orchard.internal.IIIIlIII	q96.x.IIIIlIII	unidentified	
+orchard.internal.IIIIlIIII	q96.x.IIIIlIIII	unidentified	
+orchard.internal.IIIIlIIIl	q96.x.IIIIlIIIl	unidentified	
+orchard.internal.IIIIlIIl	q96.x.IIIIlIIl	unidentified	
+orchard.internal.IIIIlIIlI	q96.x.IIIIlIIlI	unidentified	
+orchard.internal.IIIIlIIll	q96.x.IIIIlIIll	unidentified	
+orchard.internal.IIIIlIl	q96.x.IIIIlIl	unidentified	
+orchard.internal.IIIIlIlI	q96.x.IIIIlIlI	unidentified	
+orchard.internal.IIIIlIlII	q96.x.IIIIlIlII	unidentified	
+orchard.internal.IIIIlIll	q96.x.IIIIlIll	unidentified	
+orchard.internal.IIIIlIllI	q96.x.IIIIlIllI	unidentified	
+orchard.internal.IIIIlIlll	q96.x.IIIIlIlll	unidentified	
+orchard.internal.IIIIll	q96.x.IIIIll	unidentified	
+orchard.internal.IIIIllI	q96.x.IIIIllI	unidentified	
+orchard.internal.IIIIllII	q96.x.IIIIllII	unidentified	
+orchard.internal.IIIIllIII	q96.x.IIIIllIII	unidentified	
+orchard.internal.IIIIllIIl	q96.x.IIIIllIIl	unidentified	
+orchard.internal.IIIIllIl	q96.x.IIIIllIl	unidentified	
+orchard.internal.IIIIllIlI	q96.x.IIIIllIlI	unidentified	
+orchard.internal.IIIIllIll	q96.x.IIIIllIll	unidentified	
+orchard.internal.IIIIlll	q96.x.IIIIlll	unidentified	
+orchard.internal.IIIIlllI	q96.x.IIIIlllI	unidentified	
+orchard.internal.IIIIlllIl	q96.x.IIIIlllIl	unidentified	
+orchard.internal.IIIIllllI	q96.x.IIIIllllI	unidentified	
+orchard.internal.IIIl	q96.x.IIIl	unidentified	
+orchard.internal.IIIlI	q96.x.IIIlI	unidentified	
+orchard.internal.IIIlII	q96.x.IIIlII	unidentified	
+orchard.internal.IIIlIII	q96.x.IIIlIII	unidentified	
+orchard.internal.IIIlIIII	q96.x.IIIlIIII	unidentified	
+orchard.internal.IIIlIIIII	q96.x.IIIlIIIII	unidentified	
+orchard.internal.IIIlIIIl	q96.x.IIIlIIIl	unidentified	
+orchard.internal.IIIlIIIll	q96.x.IIIlIIIll	unidentified	
+orchard.internal.IIIlIIlI	q96.x.IIIlIIlI	unidentified	
+orchard.internal.IIIlIIlII	q96.x.IIIlIIlII	unidentified	
+orchard.internal.IIIlIIlIl	q96.x.IIIlIIlIl	unidentified	
+orchard.internal.IIIlIIll	q96.x.IIIlIIll	unidentified	
+orchard.internal.IIIlIIllI	q96.x.IIIlIIllI	unidentified	
+orchard.internal.IIIlIIlll	q96.x.IIIlIIlll	unidentified	
+orchard.internal.IIIlIl	q96.x.IIIlIl	unidentified	
+orchard.internal.IIIlIlIIl	q96.x.IIIlIlIIl	unidentified	
+orchard.internal.IIIlIlIl	q96.x.IIIlIlIl	unidentified	
+orchard.internal.IIIlIll	q96.x.IIIlIll	unidentified	
+orchard.internal.IIIlIllI	q96.x.IIIlIllI	unidentified	
+orchard.internal.IIIlIllII	q96.x.IIIlIllII	unidentified	
+orchard.internal.IIIlIllIl	q96.x.IIIlIllIl	unidentified	
+orchard.internal.IIIlIlll	q96.x.IIIlIlll	unidentified	
+orchard.internal.IIIlIlllI	q96.x.IIIlIlllI	unidentified	
+orchard.internal.IIIlIllll	q96.x.IIIlIllll	unidentified	
+orchard.internal.IIIllIII	q96.x.IIIllIII	unidentified	
+orchard.internal.IIIllIIIl	q96.x.IIIllIIIl	unidentified	
+orchard.internal.IIIllIIl	q96.x.IIIllIIl	unidentified	
+orchard.internal.IIIllIIll	q96.x.IIIllIIll	unidentified	
+orchard.internal.IIIllIlII	q96.x.IIIllIlII	unidentified	
+orchard.internal.IIIllIlIl	q96.x.IIIllIlIl	unidentified	
+orchard.internal.IIIllIllI	q96.x.IIIllIllI	unidentified	
+orchard.internal.IIIllIlll	q96.x.IIIllIlll	unidentified	
+orchard.internal.IIIlll	q96.x.IIIlll	unidentified	
+orchard.internal.IIIlllI	q96.x.IIIlllI	unidentified	
+orchard.internal.IIIlllII	q96.x.IIIlllII	unidentified	
+orchard.internal.IIIlllIIl	q96.x.IIIlllIIl	unidentified	
+orchard.internal.IIIlllIl	q96.x.IIIlllIl	unidentified	
+orchard.internal.IIIlllIlI	q96.x.IIIlllIlI	unidentified	
+orchard.internal.IIIllllI	q96.x.IIIllllI	unidentified	
+orchard.internal.IIIllllIl	q96.x.IIIllllIl	unidentified	
+orchard.internal.IIIlllll	q96.x.IIIlllll	unidentified	
+orchard.internal.IIIlllllI	q96.x.IIIlllllI	unidentified	
+orchard.internal.IIlI	q96.x.IIlI	unidentified	
+orchard.internal.IIlIII	q96.x.IIlIII	unidentified	
+orchard.internal.IIlIIIII	q96.x.IIlIIIII	unidentified	
+orchard.internal.IIlIIIIIl	q96.x.IIlIIIIIl	unidentified	
+orchard.internal.IIlIIIIl	q96.x.IIlIIIIl	unidentified	
+orchard.internal.IIlIIIIlI	q96.x.IIlIIIIlI	unidentified	
+orchard.internal.IIlIIIlI	q96.x.IIlIIIlI	unidentified	
+orchard.internal.IIlIIIlII	q96.x.IIlIIIlII	unidentified	
+orchard.internal.IIlIIIll	q96.x.IIlIIIll	unidentified	
+orchard.internal.IIlIIIlll	q96.x.IIlIIIlll	unidentified	
+orchard.internal.IIlIIl	q96.x.IIlIIl	unidentified	
+orchard.internal.IIlIIlI	q96.x.IIlIIlI	unidentified	
+orchard.internal.IIlIIlIII	q96.x.IIlIIlIII	unidentified	
+orchard.internal.IIlIIlIIl	q96.x.IIlIIlIIl	unidentified	
+orchard.internal.IIlIIlIl	q96.x.IIlIIlIl	unidentified	
+orchard.internal.IIlIIlIll	q96.x.IIlIIlIll	unidentified	
+orchard.internal.IIlIIllI	q96.x.IIlIIllI	unidentified	
+orchard.internal.IIlIIllII	q96.x.IIlIIllII	unidentified	
+orchard.internal.IIlIIllIl	q96.x.IIlIIllIl	unidentified	
+orchard.internal.IIlIIlll	q96.x.IIlIIlll	unidentified	
+orchard.internal.IIlIIlllI	q96.x.IIlIIlllI	unidentified	
+orchard.internal.IIlIl	q96.x.IIlIl	unidentified	
+orchard.internal.IIlIlII	q96.x.IIlIlII	unidentified	
+orchard.internal.IIlIlIIIl	q96.x.IIlIlIIIl	unidentified	
+orchard.internal.IIlIlIIl	q96.x.IIlIlIIl	unidentified	
+orchard.internal.IIlIlIIll	q96.x.IIlIlIIll	unidentified	
+orchard.internal.IIlIlIlI	q96.x.IIlIlIlI	unidentified	
+orchard.internal.IIlIlIlII	q96.x.IIlIlIlII	unidentified	
+orchard.internal.IIlIlIll	q96.x.IIlIlIll	unidentified	
+orchard.internal.IIlIll	q96.x.IIlIll	unidentified	
+orchard.internal.IIlIllI	q96.x.IIlIllI	unidentified	
+orchard.internal.IIlIllII	q96.x.IIlIllII	unidentified	
+orchard.internal.IIlIllIII	q96.x.IIlIllIII	unidentified	
+orchard.internal.IIlIllIl	q96.x.IIlIllIl	unidentified	
+orchard.internal.IIlIllIll	q96.x.IIlIllIll	unidentified	
+orchard.internal.IIlIlllI	q96.x.IIlIlllI	unidentified	
+orchard.internal.IIlIlllII	q96.x.IIlIlllII	unidentified	
+orchard.internal.IIlIlllIl	q96.x.IIlIlllIl	unidentified	
+orchard.internal.IIlIllll	q96.x.IIlIllll	unidentified	
+orchard.internal.IIlIllllI	q96.x.IIlIllllI	unidentified	
+orchard.internal.IIllI	q96.x.IIllI	unidentified	
+orchard.internal.IIllII	q96.x.IIllII	unidentified	
+orchard.internal.IIllIIII	q96.x.IIllIIII	unidentified	
+orchard.internal.IIllIIIII	q96.x.IIllIIIII	unidentified	
+orchard.internal.IIllIIIIl	q96.x.IIllIIIIl	unidentified	
+orchard.internal.IIllIIIl	q96.x.IIllIIIl	unidentified	
+orchard.internal.IIllIIIlI	q96.x.IIllIIIlI	unidentified	
+orchard.internal.IIllIIIll	q96.x.IIllIIIll	unidentified	
+orchard.internal.IIllIIl	q96.x.IIllIIl	unidentified	
+orchard.internal.IIllIIlI	q96.x.IIllIIlI	unidentified	
+orchard.internal.IIllIIlII	q96.x.IIllIIlII	unidentified	
+orchard.internal.IIllIIll	q96.x.IIllIIll	unidentified	
+orchard.internal.IIllIIllI	q96.x.IIllIIllI	unidentified	
+orchard.internal.IIllIl	q96.x.IIllIl	unidentified	
+orchard.internal.IIllIlIl	q96.x.IIllIlIl	unidentified	
+orchard.internal.IIllIlIlI	q96.x.IIllIlIlI	unidentified	
+orchard.internal.IIllIlIll	q96.x.IIllIlIll	unidentified	
+orchard.internal.IIllIll	q96.x.IIllIll	unidentified	
+orchard.internal.IIllIllI	q96.x.IIllIllI	unidentified	
+orchard.internal.IIllIllII	q96.x.IIllIllII	unidentified	
+orchard.internal.IIllIllIl	q96.x.IIllIllIl	unidentified	
+orchard.internal.IIllIlll	q96.x.IIllIlll	unidentified	
+orchard.internal.IIllIllll	q96.x.IIllIllll	unidentified	
+orchard.internal.IIlll	q96.x.IIlll	unidentified	
+orchard.internal.IIlllIII	q96.x.IIlllIII	unidentified	
+orchard.internal.IIlllIIII	q96.x.IIlllIIII	unidentified	
+orchard.internal.IIlllIIIl	q96.x.IIlllIIIl	unidentified	
+orchard.internal.IIlllIIl	q96.x.IIlllIIl	unidentified	
+orchard.internal.IIlllIIlI	q96.x.IIlllIIlI	unidentified	
+orchard.internal.IIlllIIll	q96.x.IIlllIIll	unidentified	
+orchard.internal.IIlllIl	q96.x.IIlllIl	unidentified	
+orchard.internal.IIlllIlII	q96.x.IIlllIlII	unidentified	
+orchard.internal.IIlllIll	q96.x.IIlllIll	unidentified	
+orchard.internal.IIlllIllI	q96.x.IIlllIllI	unidentified	
+orchard.internal.IIllll	q96.x.IIllll	unidentified	
+orchard.internal.IIllllI	q96.x.IIllllI	unidentified	
+orchard.internal.IIllllIIl	q96.x.IIllllIIl	unidentified	
+orchard.internal.IIllllIl	q96.x.IIllllIl	unidentified	
+orchard.internal.IIllllIll	q96.x.IIllllIll	unidentified	
+orchard.internal.IIlllllI	q96.x.IIlllllI	unidentified	
+orchard.internal.IIlllllIl	q96.x.IIlllllIl	unidentified	
+orchard.internal.IIllllll	q96.x.IIllllll	unidentified	
+orchard.internal.IIllllllI	q96.x.IIllllllI	unidentified	
+orchard.internal.Il	q96.x.Il	unidentified	
+orchard.internal.IlI	q96.x.IlI	unidentified	
+orchard.internal.IlII	q96.x.IlII	unidentified	
+orchard.internal.IlIIIIII	q96.x.IlIIIIII	unidentified	
+orchard.internal.IlIIIIIl	q96.x.IlIIIIIl	unidentified	
+orchard.internal.IlIIIIIlI	q96.x.IlIIIIIlI	unidentified	
+orchard.internal.IlIIIIIll	q96.x.IlIIIIIll	unidentified	
+orchard.internal.IlIIIIl	q96.x.IlIIIIl	unidentified	
+orchard.internal.IlIIIIlI	q96.x.IlIIIIlI	unidentified	
+orchard.internal.IlIIIIlII	q96.x.IlIIIIlII	unidentified	
+orchard.internal.IlIIIIll	q96.x.IlIIIIll	unidentified	
+orchard.internal.IlIIIl	q96.x.IlIIIl	unidentified	
+orchard.internal.IlIIIlI	q96.x.IlIIIlI	unidentified	
+orchard.internal.IlIIIlII	q96.x.IlIIIlII	unidentified	
+orchard.internal.IlIIIlIII	q96.x.IlIIIlIII	unidentified	
+orchard.internal.IlIIIlIIl	q96.x.IlIIIlIIl	unidentified	
+orchard.internal.IlIIIlIl	q96.x.IlIIIlIl	unidentified	
+orchard.internal.IlIIIlIlI	q96.x.IlIIIlIlI	unidentified	
+orchard.internal.IlIIIlIll	q96.x.IlIIIlIll	unidentified	
+orchard.internal.IlIIIll	q96.x.IlIIIll	unidentified	
+orchard.internal.IlIIIllI	q96.x.IlIIIllI	unidentified	
+orchard.internal.IlIIIllII	q96.x.IlIIIllII	unidentified	
+orchard.internal.IlIIIlll	q96.x.IlIIIlll	unidentified	
+orchard.internal.IlIIIlllI	q96.x.IlIIIlllI	unidentified	
+orchard.internal.IlIIIllll	q96.x.IlIIIllll	unidentified	
+orchard.internal.IlIIlII	q96.x.IlIIlII	unidentified	
+orchard.internal.IlIIlIII	q96.x.IlIIlIII	unidentified	
+orchard.internal.IlIIlIIIl	q96.x.IlIIlIIIl	unidentified	
+orchard.internal.IlIIlIIl	q96.x.IlIIlIIl	unidentified	
+orchard.internal.IlIIlIIlI	q96.x.IlIIlIIlI	unidentified	
+orchard.internal.IlIIlIl	q96.x.IlIIlIl	unidentified	
+orchard.internal.IlIIlIlII	q96.x.IlIIlIlII	unidentified	
+orchard.internal.IlIIlIll	q96.x.IlIIlIll	unidentified	
+orchard.internal.IlIIll	q96.x.IlIIll	unidentified	
+orchard.internal.IlIIllI	q96.x.IlIIllI	unidentified	
+orchard.internal.IlIIllIII	q96.x.IlIIllIII	unidentified	
+orchard.internal.IlIIllIlI	q96.x.IlIIllIlI	unidentified	
+orchard.internal.IlIIlll	q96.x.IlIIlll	unidentified	
+orchard.internal.IlIIlllI	q96.x.IlIIlllI	unidentified	
+orchard.internal.IlIIllllI	q96.x.IlIIllllI	unidentified	
+orchard.internal.IlIIlllll	q96.x.IlIIlllll	unidentified	
+orchard.internal.IlIl	q96.x.IlIl	unidentified	
+orchard.internal.IlIlII	q96.x.IlIlII	unidentified	
+orchard.internal.IlIlIII	q96.x.IlIlIII	unidentified	
+orchard.internal.IlIlIIIII	q96.x.IlIlIIIII	unidentified	
+orchard.internal.IlIlIIIIl	q96.x.IlIlIIIIl	unidentified	
+orchard.internal.IlIlIIIlI	q96.x.IlIlIIIlI	unidentified	
+orchard.internal.IlIlIIl	q96.x.IlIlIIl	unidentified	
+orchard.internal.IlIlIIlI	q96.x.IlIlIIlI	unidentified	
+orchard.internal.IlIlIIlII	q96.x.IlIlIIlII	unidentified	
+orchard.internal.IlIlIIlIl	q96.x.IlIlIIlIl	unidentified	
+orchard.internal.IlIlIIll	q96.x.IlIlIIll	unidentified	
+orchard.internal.IlIlIIllI	q96.x.IlIlIIllI	unidentified	
+orchard.internal.IlIlIl	q96.x.IlIlIl	unidentified	
+orchard.internal.IlIlIlI	q96.x.IlIlIlI	unidentified	
+orchard.internal.IlIlIlII	q96.x.IlIlIlII	unidentified	
+orchard.internal.IlIlIlIII	q96.x.IlIlIlIII	unidentified	
+orchard.internal.IlIlIlIl	q96.x.IlIlIlIl	unidentified	
+orchard.internal.IlIlIlIlI	q96.x.IlIlIlIlI	unidentified	
+orchard.internal.IlIlIlIll	q96.x.IlIlIlIll	unidentified	
+orchard.internal.IlIlIll	q96.x.IlIlIll	unidentified	
+orchard.internal.IlIlIllI	q96.x.IlIlIllI	unidentified	
+orchard.internal.IlIlIlll	q96.x.IlIlIlll	unidentified	
+orchard.internal.IlIlIlllI	q96.x.IlIlIlllI	unidentified	
+orchard.internal.IlIlIllll	q96.x.IlIlIllll	unidentified	
+orchard.internal.IlIll	q96.x.IlIll	unidentified	
+orchard.internal.IlIllII	q96.x.IlIllII	unidentified	
+orchard.internal.IlIllIIII	q96.x.IlIllIIII	unidentified	
+orchard.internal.IlIllIIIl	q96.x.IlIllIIIl	unidentified	
+orchard.internal.IlIllIIl	q96.x.IlIllIIl	unidentified	
+orchard.internal.IlIllIIlI	q96.x.IlIllIIlI	unidentified	
+orchard.internal.IlIllIl	q96.x.IlIllIl	unidentified	
+orchard.internal.IlIllIlI	q96.x.IlIllIlI	unidentified	
+orchard.internal.IlIllIll	q96.x.IlIllIll	unidentified	
+orchard.internal.IlIllIllI	q96.x.IlIllIllI	unidentified	
+orchard.internal.IlIlllI	q96.x.IlIlllI	unidentified	
+orchard.internal.IlIlllII	q96.x.IlIlllII	unidentified	
+orchard.internal.IlIllllI	q96.x.IlIllllI	unidentified	
+orchard.internal.Ill	q96.x.Ill	unidentified	
+orchard.internal.IllI	q96.x.IllI	unidentified	
+orchard.internal.IllIII	q96.x.IllIII	unidentified	
+orchard.internal.IllIIIII	q96.x.IllIIIII	unidentified	
+orchard.internal.IllIIIIl	q96.x.IllIIIIl	unidentified	
+orchard.internal.IllIIIlI	q96.x.IllIIIlI	unidentified	
+orchard.internal.IllIIIll	q96.x.IllIIIll	unidentified	
+orchard.internal.IllIIl	q96.x.IllIIl	unidentified	
+orchard.internal.IllIIlI	q96.x.IllIIlI	unidentified	
+orchard.internal.IllIIlII	q96.x.IllIIlII	unidentified	
+orchard.internal.IllIIll	q96.x.IllIIll	unidentified	
+orchard.internal.IllIIlll	q96.x.IllIIlll	unidentified	
+orchard.internal.IllIl	q96.x.IllIl	unidentified	
+orchard.internal.IllIlI	q96.x.IllIlI	unidentified	
+orchard.internal.IllIlII	q96.x.IllIlII	unidentified	
+orchard.internal.IllIlIII	q96.x.IllIlIII	unidentified	
+orchard.internal.IllIlIl	q96.x.IllIlIl	unidentified	
+orchard.internal.IllIlIlI	q96.x.IllIlIlI	unidentified	
+orchard.internal.IllIlIll	q96.x.IllIlIll	unidentified	
+orchard.internal.IllIll	q96.x.IllIll	unidentified	
+orchard.internal.IllIllI	q96.x.IllIllI	unidentified	
+orchard.internal.IllIllII	q96.x.IllIllII	unidentified	
+orchard.internal.IllIlllI	q96.x.IllIlllI	unidentified	
+orchard.internal.IllIllll	q96.x.IllIllll	unidentified	
+orchard.internal.Illl	q96.x.Illl	unidentified	
+orchard.internal.IlllI	q96.x.IlllI	unidentified	
+orchard.internal.IlllII	q96.x.IlllII	unidentified	
+orchard.internal.IlllIII	q96.x.IlllIII	unidentified	
+orchard.internal.IlllIIII	q96.x.IlllIIII	unidentified	
+orchard.internal.IlllIIlI	q96.x.IlllIIlI	unidentified	
+orchard.internal.IlllIIll	q96.x.IlllIIll	unidentified	
+orchard.internal.IlllIl	q96.x.IlllIl	unidentified	
+orchard.internal.IlllIlI	q96.x.IlllIlI	unidentified	
+orchard.internal.IlllIlIl	q96.x.IlllIlIl	unidentified	
+orchard.internal.IlllIll	q96.x.IlllIll	unidentified	
+orchard.internal.IlllIllI	q96.x.IlllIllI	unidentified	
+orchard.internal.IlllIlll	q96.x.IlllIlll	unidentified	
+orchard.internal.Illll	q96.x.Illll	unidentified	
+orchard.internal.IllllI	q96.x.IllllI	unidentified	
+orchard.internal.IllllII	q96.x.IllllII	unidentified	
+orchard.internal.IllllIII	q96.x.IllllIII	unidentified	
+orchard.internal.IllllIIl	q96.x.IllllIIl	unidentified	
+orchard.internal.IllllIl	q96.x.IllllIl	unidentified	
+orchard.internal.Illlll	q96.x.Illlll	unidentified	
+orchard.internal.IlllllI	q96.x.IlllllI	unidentified	
+orchard.internal.IlllllII	q96.x.IlllllII	unidentified	
+orchard.internal.IlllllIl	q96.x.IlllllIl	unidentified	
+orchard.internal.Illllll	q96.x.Illllll	unidentified	
+orchard.internal.IllllllI	q96.x.IllllllI	unidentified	
+orchard.internal.Illlllll	q96.x.Illlllll	unidentified	
+orchard.internal.l	q96.x.l	unidentified	
+orchard.internal.lI	q96.x.lI	unidentified	
+orchard.internal.lIII	q96.x.lIII	unidentified	
+orchard.internal.lIIII	q96.x.lIIII	unidentified	
+orchard.internal.lIIIII	q96.x.lIIIII	unidentified	
+orchard.internal.lIIIIII	q96.x.lIIIIII	unidentified	
+orchard.internal.lIIIIIII	q96.x.lIIIIIII	unidentified	
+orchard.internal.lIIIIIIl	q96.x.lIIIIIIl	unidentified	
+orchard.internal.lIIIIIl	q96.x.lIIIIIl	unidentified	
+orchard.internal.lIIIIIlI	q96.x.lIIIIIlI	unidentified	
+orchard.internal.lIIIIIll	q96.x.lIIIIIll	unidentified	
+orchard.internal.lIIIIl	q96.x.lIIIIl	unidentified	
+orchard.internal.lIIIIlI	q96.x.lIIIIlI	unidentified	
+orchard.internal.lIIIIlIl	q96.x.lIIIIlIl	unidentified	
+orchard.internal.lIIIIll	q96.x.lIIIIll	unidentified	
+orchard.internal.lIIIIllI	q96.x.lIIIIllI	unidentified	
+orchard.internal.lIIIIlll	q96.x.lIIIIlll	unidentified	
+orchard.internal.lIIIlI	q96.x.lIIIlI	unidentified	
+orchard.internal.lIIIlII	q96.x.lIIIlII	unidentified	
+orchard.internal.lIIIlIII	q96.x.lIIIlIII	unidentified	
+orchard.internal.lIIIlIIl	q96.x.lIIIlIIl	unidentified	
+orchard.internal.lIIIlIl	q96.x.lIIIlIl	unidentified	
+orchard.internal.lIIIll	q96.x.lIIIll	unidentified	
+orchard.internal.lIIIllII	q96.x.lIIIllII	unidentified	
+orchard.internal.lIIIlll	q96.x.lIIIlll	unidentified	
+orchard.internal.lIIIllll	q96.x.lIIIllll	unidentified	
+orchard.internal.lIIl	q96.x.lIIl	unidentified	
+orchard.internal.lIIlI	q96.x.lIIlI	unidentified	
+orchard.internal.lIIlIII	q96.x.lIIlIII	unidentified	
+orchard.internal.lIIlIIII	q96.x.lIIlIIII	unidentified	
+orchard.internal.lIIlIIIl	q96.x.lIIlIIIl	unidentified	
+orchard.internal.lIIlIIl	q96.x.lIIlIIl	unidentified	
+orchard.internal.lIIlIIll	q96.x.lIIlIIll	unidentified	
+orchard.internal.lIIlIl	q96.x.lIIlIl	unidentified	
+orchard.internal.lIIlIlI	q96.x.lIIlIlI	unidentified	
+orchard.internal.lIIlIlII	q96.x.lIIlIlII	unidentified	
+orchard.internal.lIIlIlIl	q96.x.lIIlIlIl	unidentified	
+orchard.internal.lIIlIll	q96.x.lIIlIll	unidentified	
+orchard.internal.lIIlIllI	q96.x.lIIlIllI	unidentified	
+orchard.internal.lIIlIlll	q96.x.lIIlIlll	unidentified	
+orchard.internal.lIIll	q96.x.lIIll	unidentified	
+orchard.internal.lIIllI	q96.x.lIIllI	unidentified	
+orchard.internal.lIIllII	q96.x.lIIllII	unidentified	
+orchard.internal.lIIllIIl	q96.x.lIIllIIl	unidentified	
+orchard.internal.lIIllIl	q96.x.lIIllIl	unidentified	
+orchard.internal.lIIllIlI	q96.x.lIIllIlI	unidentified	
+orchard.internal.lIIllIll	q96.x.lIIllIll	unidentified	
+orchard.internal.lIIlll	q96.x.lIIlll	unidentified	
+orchard.internal.lIIlllI	q96.x.lIIlllI	unidentified	
+orchard.internal.lIIlllIl	q96.x.lIIlllIl	unidentified	
+orchard.internal.lIIllll	q96.x.lIIllll	unidentified	
+orchard.internal.lIIllllI	q96.x.lIIllllI	unidentified	
+orchard.internal.lIIlllll	q96.x.lIIlllll	unidentified	
+orchard.internal.lIlI	q96.x.lIlI	unidentified	
+orchard.internal.lIlIIIII	q96.x.lIlIIIII	unidentified	
+orchard.internal.lIlIIIl	q96.x.lIlIIIl	unidentified	
+orchard.internal.lIlIIIlI	q96.x.lIlIIIlI	unidentified	
+orchard.internal.lIlIIIll	q96.x.lIlIIIll	unidentified	
+orchard.internal.lIlIIl	q96.x.lIlIIl	unidentified	
+orchard.internal.lIlIIlI	q96.x.lIlIIlI	unidentified	
+orchard.internal.lIlIIlII	q96.x.lIlIIlII	unidentified	
+orchard.internal.lIlIIll	q96.x.lIlIIll	unidentified	
+orchard.internal.lIlIIllI	q96.x.lIlIIllI	unidentified	
+orchard.internal.lIlIlI	q96.x.lIlIlI	unidentified	
+orchard.internal.lIlIlII	q96.x.lIlIlII	unidentified	
+orchard.internal.lIlIlIl	q96.x.lIlIlIl	unidentified	
+orchard.internal.lIlIlIlI	q96.x.lIlIlIlI	unidentified	
+orchard.internal.lIlIlIll	q96.x.lIlIlIll	unidentified	
+orchard.internal.lIlIll	q96.x.lIlIll	unidentified	
+orchard.internal.lIlIllI	q96.x.lIlIllI	unidentified	
+orchard.internal.lIlIlll	q96.x.lIlIlll	unidentified	
+orchard.internal.lIlIlllI	q96.x.lIlIlllI	unidentified	
+orchard.internal.lIlIllll	q96.x.lIlIllll	unidentified	
+orchard.internal.lIllIII	q96.x.lIllIII	unidentified	
+orchard.internal.lIllIIIl	q96.x.lIllIIIl	unidentified	
+orchard.internal.lIllIIlI	q96.x.lIllIIlI	unidentified	
+orchard.internal.lIllIIll	q96.x.lIllIIll	unidentified	
+orchard.internal.lIllIl	q96.x.lIllIl	unidentified	
+orchard.internal.lIllIlI	q96.x.lIllIlI	unidentified	
+orchard.internal.lIllIlIl	q96.x.lIllIlIl	unidentified	
+orchard.internal.lIlll	q96.x.lIlll	unidentified	
+orchard.internal.lIlllIII	q96.x.lIlllIII	unidentified	
+orchard.internal.lIlllIIl	q96.x.lIlllIIl	unidentified	
+orchard.internal.lIlllIl	q96.x.lIlllIl	unidentified	
+orchard.internal.lIlllIlI	q96.x.lIlllIlI	unidentified	
+orchard.internal.lIlllIll	q96.x.lIlllIll	unidentified	
+orchard.internal.lIllll	q96.x.lIllll	unidentified	
+orchard.internal.lIllllI	q96.x.lIllllI	unidentified	
+orchard.internal.lIllllII	q96.x.lIllllII	unidentified	
+orchard.internal.lIllllIl	q96.x.lIllllIl	unidentified	
+orchard.internal.lIlllll	q96.x.lIlllll	unidentified	
+orchard.internal.lIlllllI	q96.x.lIlllllI	unidentified	
+orchard.internal.lIllllll	q96.x.lIllllll	unidentified	
+orchard.internal.ll	q96.x.ll	unidentified	
+orchard.internal.llI	q96.x.llI	unidentified	
+orchard.internal.llIII	q96.x.llIII	unidentified	
+orchard.internal.llIIII	q96.x.llIIII	unidentified	
+orchard.internal.llIIIII	q96.x.llIIIII	unidentified	
+orchard.internal.llIIIIII	q96.x.llIIIIII	unidentified	
+orchard.internal.llIIIIIl	q96.x.llIIIIIl	unidentified	
+orchard.internal.llIIIIlI	q96.x.llIIIIlI	unidentified	
+orchard.internal.llIIIIll	q96.x.llIIIIll	unidentified	
+orchard.internal.llIIIl	q96.x.llIIIl	unidentified	
+orchard.internal.llIIIlIl	q96.x.llIIIlIl	unidentified	
+orchard.internal.llIIIllI	q96.x.llIIIllI	unidentified	
+orchard.internal.llIIIlll	q96.x.llIIIlll	unidentified	
+orchard.internal.llIIl	q96.x.llIIl	unidentified	
+orchard.internal.llIIlI	q96.x.llIIlI	unidentified	
+orchard.internal.llIIlII	q96.x.llIIlII	unidentified	
+orchard.internal.llIIlIII	q96.x.llIIlIII	unidentified	
+orchard.internal.llIIlIl	q96.x.llIIlIl	unidentified	
+orchard.internal.llIIlIlI	q96.x.llIIlIlI	unidentified	
+orchard.internal.llIIllI	q96.x.llIIllI	unidentified	
+orchard.internal.llIIlll	q96.x.llIIlll	unidentified	
+orchard.internal.llIIlllI	q96.x.llIIlllI	unidentified	
+orchard.internal.llIIllll	q96.x.llIIllll	unidentified	
+orchard.internal.llIl	q96.x.llIl	unidentified	
+orchard.internal.llIlII	q96.x.llIlII	unidentified	
+orchard.internal.llIlIII	q96.x.llIlIII	unidentified	
+orchard.internal.llIlIIII	q96.x.llIlIIII	unidentified	
+orchard.internal.llIlIIIl	q96.x.llIlIIIl	unidentified	
+orchard.internal.llIlIIl	q96.x.llIlIIl	unidentified	
+orchard.internal.llIlIIlI	q96.x.llIlIIlI	unidentified	
+orchard.internal.llIlIIll	q96.x.llIlIIll	unidentified	
+orchard.internal.llIlIl	q96.x.llIlIl	unidentified	
+orchard.internal.llIlIlI	q96.x.llIlIlI	unidentified	
+orchard.internal.llIlIlII	q96.x.llIlIlII	unidentified	
+orchard.internal.llIlIlIl	q96.x.llIlIlIl	unidentified	
+orchard.internal.llIlIll	q96.x.llIlIll	unidentified	
+orchard.internal.llIlIllI	q96.x.llIlIllI	unidentified	
+orchard.internal.llIlIlll	q96.x.llIlIlll	unidentified	
+orchard.internal.llIll	q96.x.llIll	unidentified	
+orchard.internal.llIllI	q96.x.llIllI	unidentified	
+orchard.internal.llIllII	q96.x.llIllII	unidentified	
+orchard.internal.llIllIII	q96.x.llIllIII	unidentified	
+orchard.internal.llIllIl	q96.x.llIllIl	unidentified	
+orchard.internal.llIllIll	q96.x.llIllIll	unidentified	
+orchard.internal.llIlllI	q96.x.llIlllI	unidentified	
+orchard.internal.llIlllII	q96.x.llIlllII	unidentified	
+orchard.internal.llIlllIl	q96.x.llIlllIl	unidentified	
+orchard.internal.llIllll	q96.x.llIllll	unidentified	
+orchard.internal.llIllllI	q96.x.llIllllI	unidentified	
+orchard.internal.llIlllll	q96.x.llIlllll	unidentified	
+orchard.internal.lll	q96.x.lll	unidentified	
+orchard.internal.lllI	q96.x.lllI	unidentified	
+orchard.internal.lllII	q96.x.lllII	unidentified	
+orchard.internal.lllIII	q96.x.lllIII	unidentified	
+orchard.internal.lllIIII	q96.x.lllIIII	unidentified	
+orchard.internal.lllIIIII	q96.x.lllIIIII	unidentified	
+orchard.internal.lllIIIIl	q96.x.lllIIIIl	unidentified	
+orchard.internal.lllIIIl	q96.x.lllIIIl	unidentified	
+orchard.internal.lllIIIll	q96.x.lllIIIll	unidentified	
+orchard.internal.lllIIl	q96.x.lllIIl	unidentified	
+orchard.internal.lllIIlI	q96.x.lllIIlI	unidentified	
+orchard.internal.lllIIlII	q96.x.lllIIlII	unidentified	
+orchard.internal.lllIIll	q96.x.lllIIll	unidentified	
+orchard.internal.lllIIlll	q96.x.lllIIlll	unidentified	
+orchard.internal.lllIl	q96.x.lllIl	unidentified	
+orchard.internal.lllIlI	q96.x.lllIlI	unidentified	
+orchard.internal.lllIlII	q96.x.lllIlII	unidentified	
+orchard.internal.lllIlIII	q96.x.lllIlIII	unidentified	
+orchard.internal.lllIlIl	q96.x.lllIlIl	unidentified	
+orchard.internal.lllIlIlI	q96.x.lllIlIlI	unidentified	
+orchard.internal.lllIll	q96.x.lllIll	unidentified	
+orchard.internal.lllIllII	q96.x.lllIllII	unidentified	
+orchard.internal.lllIllIl	q96.x.lllIllIl	unidentified	
+orchard.internal.lllIlll	q96.x.lllIlll	unidentified	
+orchard.internal.lllIlllI	q96.x.lllIlllI	unidentified	
+orchard.internal.llll	q96.x.llll	unidentified	
+orchard.internal.llllI	q96.x.llllI	unidentified	
+orchard.internal.llllII	q96.x.llllII	unidentified	
+orchard.internal.llllIII	q96.x.llllIII	unidentified	
+orchard.internal.llllIIII	q96.x.llllIIII	unidentified	
+orchard.internal.llllIIIl	q96.x.llllIIIl	unidentified	
+orchard.internal.llllIIl	q96.x.llllIIl	unidentified	
+orchard.internal.llllIIlI	q96.x.llllIIlI	unidentified	
+orchard.internal.llllIIll	q96.x.llllIIll	unidentified	
+orchard.internal.llllIl	q96.x.llllIl	unidentified	
+orchard.internal.llllIll	q96.x.llllIll	unidentified	
+orchard.internal.llllIllI	q96.x.llllIllI	unidentified	
+orchard.internal.llllIlll	q96.x.llllIlll	unidentified	
+orchard.internal.lllllI	q96.x.lllllI	unidentified	
+orchard.internal.lllllII	q96.x.lllllII	unidentified	
+orchard.internal.lllllIII	q96.x.lllllIII	unidentified	
+orchard.internal.lllllIIl	q96.x.lllllIIl	unidentified	
+orchard.internal.lllllIl	q96.x.lllllIl	unidentified	
+orchard.internal.lllllIll	q96.x.lllllIll	unidentified	
+orchard.internal.llllll	q96.x.llllll	unidentified	
+orchard.internal.llllllI	q96.x.llllllI	unidentified	
+orchard.internal.llllllII	q96.x.llllllII	unidentified	
+orchard.internal.lllllllI	q96.x.lllllllI	unidentified	
+orchard.internal.llllllll	q96.x.llllllll	unidentified	
+orchard.mixin.AbstractClientPlayerEntityMixin	q96.y.IIIIIII	mixin	targets AbstractClientPlayerEntity
+orchard.mixin.ArmedEntityRenderStateMixin	q96.y.IIllIlIII	mixin	targets ArmedEntityRenderState
+orchard.mixin.BlockItemMixin	q96.y.IIIIlllll	mixin	targets BlockItem
+orchard.mixin.BlockItemMixin2	q96.y.lIlIl	mixin	targets BlockItem
+orchard.mixin.BlockModelRendererMixin	q96.y.IlIIlllIl	mixin	targets BlockModelRenderer
+orchard.mixin.CameraMixin	q96.y.IIlIlIIII	mixin	targets Camera
+orchard.mixin.CapeFeatureRendererMixin	q96.y.IIIlIlIII	mixin	targets CapeFeatureRenderer
+orchard.mixin.ChatHudMixin	q96.y.IlIIIllIl	mixin	targets ChatHud
+orchard.mixin.ClientCommonNetworkHandlerMixin	q96.y.IlIllIlII	mixin	targets ClientCommonNetworkHandler
+orchard.mixin.ClientConnectionMixin	q96.y.IIlllllII	mixin	targets ClientConnection
+orchard.mixin.ClientConnectionMixin2	q96.y.IlIIlIlIl	mixin	targets ClientConnection
+orchard.mixin.ClientPlayNetworkHandlerMixin	q96.y.IIlIIII	mixin	targets ClientPlayNetworkHandler
+orchard.mixin.ClientPlayNetworkHandlerMixin2	q96.y.IlIIlIllI	mixin	targets ClientPlayNetworkHandler
+orchard.mixin.ClientPlayerEntityMixin	q96.y.lIlIIlll	mixin	targets ClientPlayerEntity
+orchard.mixin.ClientPlayerEntityMixin2	q96.y.lllllll	mixin	targets ClientPlayerEntity
+orchard.mixin.ClientPlayerInteractionManagerMixin	q96.y.IIIlllIll	mixin	targets ClientPlayerInteractionManager
+orchard.mixin.ClientPlayerInteractionManagerMixin2	q96.y.IIllllII	mixin	targets ClientPlayerInteractionManager
+orchard.mixin.ClientPlayerInteractionManagerMixin3	q96.y.IlIIllIl	mixin	targets ClientPlayerInteractionManager
+orchard.mixin.ConnectScreenMixin	q96.y.lllIllll	mixin	targets ConnectScreen
+orchard.mixin.EndCrystalItemMixin	q96.y.IIIlIIIIl	mixin	targets EndCrystalItem
+orchard.mixin.EntityMixin	q96.y.IIIlIlI	mixin	targets Entity
+orchard.mixin.EntityMixin2	q96.y.IIIllIIlI	mixin	targets Entity
+orchard.mixin.EntityMixin3	q96.y.IlIIII	mixin	targets Entity
+orchard.mixin.EntityMixin4	q96.y.IlIIllll	mixin	targets Entity
+orchard.mixin.EntityRenderManagerMixin	q96.y.IIlIlIlll	mixin	targets EntityRenderManager
+orchard.mixin.EntityRendererMixin	q96.y.IIllllIlI	mixin	targets EntityRenderer
+orchard.mixin.EntityRendererMixin2	q96.y.llllIlI	mixin	targets EntityRenderer
+orchard.mixin.EntityS2CPacketMixin	q96.y.IlIllIlIl	mixin	targets EntityS2CPacket
+orchard.mixin.EntityS2CPacketMixin2	q96.y.llIIll	mixin	targets EntityS2CPacket
+orchard.mixin.FireworkRocketEntityMixin	q96.y.IIlIlllll	mixin	targets FireworkRocketEntity
+orchard.mixin.FireworkRocketEntityMixin2	q96.y.llIIIIl	mixin	targets FireworkRocketEntity
+orchard.mixin.GLXMixin	q96.y.IlIllIIll	mixin	targets GLX
+orchard.mixin.GameRendererMixin	q96.y.llIIlIll	mixin	targets GameRenderer
+orchard.mixin.GuiRendererMixin	q96.y.IIlllIlIl	mixin	targets GuiRenderer
+orchard.mixin.HandledScreenMixin	q96.y.IIlllIlll	mixin	targets HandledScreen
+orchard.mixin.HeldItemRendererMixin	q96.y.IIIIlIlIl	mixin	targets HeldItemRenderer
+orchard.mixin.HeldItemRendererMixin2	q96.y.IIlllll	mixin	targets HeldItemRenderer
+orchard.mixin.InGameHudMixin	q96.y.lIIIllIl	mixin	targets InGameHud
+orchard.mixin.ItemStackMixin	q96.y.IllIlll	mixin	targets ItemStack
+orchard.mixin.KeyBindingMixin	q96.y.IIIIllll	mixin	targets KeyBinding
+orchard.mixin.KeyboardInputMixin	q96.y.IIIllIlI	mixin	targets KeyboardInput
+orchard.mixin.LightmapTextureManagerMixin	q96.y.llII	mixin	targets LightmapTextureManager
+orchard.mixin.LivingEntityMixin	q96.y.IllIIII	mixin	targets LivingEntity
+orchard.mixin.LivingEntityMixin2	q96.y.IllIllIl	mixin	targets LivingEntity
+orchard.mixin.LivingEntityMixin3	q96.y.lIIlII	mixin	targets LivingEntity
+orchard.mixin.MinecraftClientMixin	q96.y.IIllIIlIl	mixin	targets MinecraftClient
+orchard.mixin.MinecraftClientMixin2	q96.y.IIlllllll	mixin	targets MinecraftClient
+orchard.mixin.MinecraftClientMixin3	q96.y.IlIlllIl	mixin	targets MinecraftClient
+orchard.mixin.MinecraftClientMixin4	q96.y.lIlIIII	mixin	targets MinecraftClient
+orchard.mixin.MinecraftServerMixin	q96.y.IlIIlllII	mixin	targets MinecraftServer
+orchard.mixin.MouseMixin	q96.y.IIIlIlII	mixin	targets Mouse
+orchard.mixin.MouseMixin2	q96.y.IlIIIIIIl	mixin	targets Mouse
+orchard.mixin.MouseMixin3	q96.y.lIllIlII	mixin	targets Mouse
+orchard.mixin.NetworkUtilsMixin	q96.y.IlIllll	mixin	targets NetworkUtils
+orchard.mixin.PlayerEntityMixin	q96.y.IlIIlIIII	mixin	targets PlayerEntity
+orchard.mixin.PlayerEntityMixin2	q96.y.lIIlIIlI	mixin	targets PlayerEntity
+orchard.mixin.PlayerEntityRendererMixin	q96.y.lIIIlIll	mixin	targets PlayerEntityRenderer
+orchard.mixin.PlayerInventoryMixin	q96.y.IlIIllII	mixin	targets PlayerInventory
+orchard.mixin.PlayerInventoryMixin2	q96.y.IllII	mixin	targets PlayerInventory
+orchard.mixin.PlayerListEntryMixin	q96.y.IIlIlIII	mixin	targets PlayerListEntry
+orchard.mixin.PlayerListHudMixin	q96.y.IlIlIIlll	mixin	targets PlayerListHud
+orchard.mixin.StatusEffectFogModifierMixin	q96.y.lIIIIlII	mixin	targets StatusEffectFogModifier
+orchard.mixin.SystemDetailsMixin	q96.y.IIIllIll	mixin	targets SystemDetails
+orchard.mixin.TelemetryManagerMixin	q96.y.lIIIl	mixin	targets TelemetryManager
+orchard.mixin.TextVisitFactoryMixin	q96.y.IIlllII	mixin	targets TextVisitFactory
+orchard.mixin.TranslatableTextContentMixin	q96.y.IIlIIlII	mixin	targets TranslatableTextContent
+orchard.mixin.WorldRendererMixin	q96.y.IIlIlll	mixin	targets WorldRenderer
+orchard.module.combat.AimAssist	q96.x.llIIllII	module	Aim Assist [COMBAT] - q5lbkw1fXAXXGIpVA8Ceh5eBRtwaRV8PhACeUB2TypGPlUaYChdREtcHj0kA3duQjA==
+orchard.module.combat.AimOptimizer	q96.x.IIl	module	Aim Optimizer [COMBAT] - Slows mouse movement near targets and releases speed on the hitbox
+orchard.module.combat.AirAnchor	q96.x.IlIIIII	module	AirAnchor [COMBAT] - Attempts to place another respawn anchor in the exploded anchor position.
+orchard.module.combat.AntiBot	q96.x.IlIIlI	module	AntiBot [COMBAT] - Detects and ignores anti-cheat bots instantly across servers.
+orchard.module.combat.AutoCart	q96.x.lIlIlIIl	module	AutoCart [COMBAT] - Automatically places a rail and minecart at a flaming arrow impact point.
+orchard.module.combat.AutoCrystal	q96.x.IIIIIlIl	module	Auto Crystal [COMBAT] - Automatically places & breaks crystals
+orchard.module.combat.AutoDhand	q96.x.IllIIlIl	module	AutoDhand [COMBAT] - Moves a totem to the main hand after your offhand totem pops.
+orchard.module.combat.AutoHeadWeb	q96.x.IIIIIIlI	module	Auto Head Web [COMBAT] - Places a cobweb at an opponent head when a reachable support block is adjacent.
+orchard.module.combat.AutoHitCrystal	q96.x.IIIlIlIlI	module	AutoHitCrystal [COMBAT] - Places an obsidian & a crystal when hitting the ground
+orchard.module.combat.AutoInventoryTotem	q96.x.lIIIlllI	module	Auto Inventory Totem [COMBAT] - Briefly opens inventory and moves a totem into your offhand
+orchard.module.combat.AutoMace	q96.x.IlllIIl	module	AutoMace [COMBAT] - Aims and lands a mace smash on nearby opponents while falling.
+orchard.module.combat.AutoSafeAnchor	q96.x.IIlIlIl	module	AutoSafeAnchor [COMBAT] - Places glowstone on the floor beside a newly placed anchor, toward the player.
+orchard.module.combat.AutoTotem	q96.x.lIllI	module	Auto Totem [COMBAT] - Refills your offhand with a totem after it is missing or pops
+orchard.module.combat.Autoclicker	q96.x.lIllIllI	module	Autoclicker [COMBAT] - Automatically clicks at a configurable rate.
+orchard.module.combat.Backtrack	q96.x.IIIlIlIll	module	Backtrack [COMBAT] - Delays an attacked player's movement packets so their recent position remains hittable.
+orchard.module.combat.BowSpam	q96.x.IIllllIII	module	BowSpam [COMBAT] - Rapidly releases and restarts a held bow at minimum charge.
+orchard.module.combat.BreachSwap	q96.x.llIIIlII	module	BreachSwap [COMBAT] - Automatically swaps to a Breach mace during sword attacks, then switches back.
+orchard.module.combat.CartProtection	q96.x.IIII	module	CartProtection [COMBAT] - Places a selected hotbar block between you and a foreign lethal TNT cart.
+orchard.module.combat.ClickCrystal	q96.x.IlIIlIlll	module	Click Crystal [COMBAT] - Speeds up repeated block placement without changing attacks or crystal interactions.
+orchard.module.combat.FastAnchor	q96.x.IIIllI	module	FastAnchor [COMBAT] - Automatically explodes interracted & placed anchors.
+orchard.module.combat.FastCart	q96.x.IIIIl	module	FastCart [COMBAT] - Places a minecart after you place a rail.
+orchard.module.combat.HitWeb	q96.x.IIIllIIII	module	HitWeb [COMBAT] - Places a cobweb under players after you hit them.
+orchard.module.combat.KeyXbow	q96.x.IIlIIIl	module	KeyXbow [COMBAT] - Automatically preforms a Xbow explosion when looking at the ground.
+orchard.module.combat.KillAura	q96.x.llllIlII	module	KillAura [COMBAT] - aim +phit
+orchard.module.combat.KnockbackDisplacement	q96.x.lllIIIlI	module	Knockback Displacement [COMBAT] - Silently displaces knockback direction on hit.
+orchard.module.combat.LagRange	q96.x.lIlIIlIl	module	LagRange [COMBAT] - Briefly chokes outbound packets while closing into opponent range.
+orchard.module.combat.MaceSwap	q96.x.IIIIIlIll	module	MaceSwap [COMBAT] - Swaps to your best mace before falling attacks.
+orchard.module.combat.NoMissDelay	q96.x.IIllIlI	module	NoMissDelay [COMBAT] - Removes the missed-hit attack delay based on chance.
+orchard.module.combat.PlayerFreeze	q96.x.lIllIlll	module	PlayerFreeze [COMBAT] - After hitting a player, holds packets for a fixed time and then flushes them.
+orchard.module.combat.PotAssist	q96.x.lIllIIl	module	PotAssist [COMBAT] - Automatically throws safe splash potions when looking down.
+orchard.module.combat.ShieldBreaker	q96.x.IIIlIIIlI	module	ShieldBreaker [COMBAT] - Switches to an axe and breaks shields on click.
+orchard.module.combat.SpearLunge	q96.x.IIlIIIlIl	module	Spear lunge [COMBAT] - Automatically preforms a spear lunge at a click of a button
+orchard.module.combat.rIZdmx5SQj6YHA	q96.x.lIlIIIIl	module	rIZdmx5SQj6YHA== [COMBAT] - uYFAkxRWRBWUCZNVFpPfioyVV5cQWVdcmBiPVgHW0IqL1E2TDBBCGdcEkFYE2tCZ2JVA
+orchard.module.hud.BPS	q96.x.lIlII	module	BPS [HUD] - Shows movement speed in blocks per second in a small HUD cell.
+orchard.module.hud.Effects	q96.x.IlIIllIIl	module	Effects [HUD] - Displays your active potion effects
+orchard.module.hud.FPS	q96.x.IIIll	module	FPS [HUD] - Shows the current FPS in a small HUD cell.
+orchard.module.hud.Inventory	q96.x.llIIIlI	module	Inventory [HUD] - Shows a compact inventory item grid.
+orchard.module.hud.KeybindsHUD	q96.x.lllIlIll	module	KeybindsHUD [HUD] - Shows all bound modules and their assigned keys.
+orchard.module.hud.ModuleList	q96.x.IIlIlIllI	module	Module List [HUD] - Liquid-style arraylist with scalable accents.
+orchard.module.hud.Notifications	q96.x.IlIlIlIIl	module	Notifications [HUD] - Displays toggle and client notifications.
+orchard.module.hud.Promo	q96.x.IllIlIIl	module	Promo [HUD] - Displays custom promotional or watermark text on screen with`shadow and color shift.
+orchard.module.hud.Radar	q96.x.lIll	module	Radar [HUD] - Clean entity radar with player and mob dots.
+orchard.module.hud.Spotify	q96.x.IIlIIlIlI	module	Spotify [HUD] - Shows the current Spotify song, album artwork, progress, and synced lyrics.
+orchard.module.hud.TargetHUD	q96.x.IIIIIl	module	TargetHUD [HUD] - Shows dynamic target info.
+orchard.module.hud.Watermark	q96.x.IlIIl	module	Watermark [HUD] - Client logo watermark.
+orchard.module.iface.AimHelper	q96.x.IllllIlI	module	Aim Helper [IFACE] - Removed legacy helper
+orchard.module.iface.ClickSimulations	q96.x.IlIlllll	module	Click Simulations [IFACE] - Simulates mouse clicks for module actions.
+orchard.module.iface.FakeLag	q96.x.IlllIlII	module	FakeLag [IFACE] - Removed legacy helper
+orchard.module.iface.Friends	q96.x.IIllIIlll	module	Friends [IFACE] - Keeps selected players out of module targeting.
+orchard.module.iface.Interface	q96.x.IlIIIIlll	module	Interface [IFACE] - Global theme color.
+orchard.module.iface.Panic	q96.x.IlIII	module	Panic [IFACE] - Disables all active modules.
+orchard.module.iface.UnloadOrchard	q96.x.IIllIII	module	Unload Orchard [IFACE] - Disables Orchard and releases its runtime hooks until Minecraft restarts.
+orchard.module.iface.VisualSwitch	q96.x.IIllIlIIl	module	Visual Switch [IFACE] - Visually switches hotbar slots during module actions.
+orchard.module.movement.AutoPlay	q96.x.lIIllIII	module	Auto Play [MOVEMENT] - Finds the nearest valid player, approaches safely and hands combat to Kill Aura.
+orchard.module.movement.AutoWalk	q96.x.IIlIllIIl	module	Auto Walk [MOVEMENT] - Automatically walks forward until toggled off or a menu is opened.
+orchard.module.movement.CollisionSpeed	q96.x.llllIlIl	module	CollisionSpeed [MOVEMENT] - Borrows the anticheat's per-entity collision lenience to move faster while pushable entities are near.
+orchard.module.movement.JumpReset	q96.x.llIlll	module	Jump Reset [MOVEMENT] - Mitigates velocity by automatically jumping.
+orchard.module.movement.KeepSprint	q96.x.IIIllllll	module	KeepSprint [MOVEMENT] - Resets sprint after hits so follow-up hits keep momentum.
+orchard.module.movement.MoveFix	q96.x.IIlIIIllI	module	Move Fix [MOVEMENT] - Keeps movement physics correct while modules use silent rotations
+orchard.module.movement.NoJumpDelay	q96.x.IlIIlIIll	module	NoJumpDelay [MOVEMENT] - Removes the vanilla jump cooldown.
+orchard.module.movement.NoPush	q96.x.IIIIIllIl	module	No Push [MOVEMENT] - Prevents other entities from pushing you via collision.
+orchard.module.movement.Parkour	q96.x.IIIllII	module	Parkour [MOVEMENT] - Automatically jumps when you reach the edge of a block.
+orchard.module.movement.PearlChase	q96.x.llllllIl	module	PearlChase [MOVEMENT] - Throws an ender pearl to follow escaping opponents.
+orchard.module.movement.PerfectWindcharge	q96.x.IlIIIIllI	module	Perfect Windcharge [MOVEMENT] - Automatically jumps when a wind charge is thrown at your feet.
+orchard.module.movement.SnapTap	q96.x.IIlllI	module	SnapTap [MOVEMENT] - Makes opposing movement inputs resolve to the most recent direction.
+orchard.module.movement.Speed	q96.x.IIll	module	Speed [MOVEMENT] - Legit speed with straight-line equalization or sprint + autojump.
+orchard.module.movement.Sprint	q96.x.IlIlIIII	module	Sprint [MOVEMENT] - Keeps you sprinting like a vanilla toggle sprint.
+orchard.module.movement.SprintReset	q96.x.IIlIIllll	module	SprintReset [MOVEMENT] - Instantly resets sprint after successful hits.
+orchard.module.movement.SprintReset2	q96.x.IIllIlllI	module	SprintReset [MOVEMENT] - Resets sprint on hit via W-Tap or S-Tap for extra knockback.
+orchard.module.movement.VClip	q96.x.llIlI	module	VClip [MOVEMENT] - Clips you vertically through blocks.
+orchard.module.player.AutoArmor	q96.x.llIllIlI	module	AutoArmor [PLAYER] - Automatically equips the best armor from your inventory.
+orchard.module.player.AutoDeposit	q96.x.IIlIlIlIl	module	AutoDeposit [PLAYER] - Automatically deposits selected inventory items into an ender chest.
+orchard.module.player.AutoDrain	q96.x.IIlII	module	AutoDrain [PLAYER] - Picks up nearby liquid sources with a bucket.
+orchard.module.player.AutoGG	q96.x.IIIllllII	module	AutoGG [PLAYER] - Automatically sends a message in chat when you kill someone.
+orchard.module.player.AutoReconnect	q96.x.llIllIIl	module	Auto Reconnect [PLAYER] - Reconnects to the last multiplayer server after a configurable delay.
+orchard.module.player.AutoTool	q96.x.lIlllII	module	AutoTool [PLAYER] - Automatically switches to the best mining tool and optional weapon slot.
+orchard.module.player.ChestStealer	q96.x.IIlIlIIlI	module	ChestStealer [PLAYER] - Randomly quick-moves items from open chest containers into inventory.
+orchard.module.player.ElytraSwap	q96.x.IlIlIIIll	module	ElytraSwap [PLAYER] - Swaps an elytra or chestplate from the hotbar into your chest slot.
+orchard.module.player.Extinguish	q96.x.lII	module	Extinguish [PLAYER] - Auto-douses the player with a water bucket when on fire.
+orchard.module.player.FakePlayer	q96.x.lllllIlI	module	FakePlayer [PLAYER] - Spawns a fake player for testing combat and render modules.
+orchard.module.player.FastPlace	q96.x.IllllIll	module	FastPlace [PLAYER] - Removes the right click item-use delay.
+orchard.module.player.FastXP	q96.x.lIl	module	FastXP [PLAYER] - Automatically throws experience bottles to repair equipped gear.
+orchard.module.player.HoverTotem	q96.x.lIlllI	module	HoverTotem [PLAYER] - Instantly offhands a hovered totem.
+orchard.module.player.InventoryCleaner	q96.x.IlIlIIIl	module	InventoryCleaner [PLAYER] - Drops junk and weak duplicate armor/tools while inventory is open or NoMove is stationary.
+orchard.module.player.LegitScaffold	q96.x.lllIlIIl	module	Legit Scaffold [PLAYER] - Sneaks at the edges of blocks
+orchard.module.player.NoInteract	q96.x.IIIllIl	module	NoInteract [PLAYER] - Blocks right-click interactions with storage blocks.
+orchard.module.player.Opsec	q96.x.IlIIIIlIl	module	Opsec [PLAYER] - Your favourite opsec mod, just inside Orchard.
+orchard.module.player.PearlChase	q96.x.IIIlIIl	module	PearlChase [PLAYER] - Automatically throws a counter pearl towards an opponent's thrown ender pearl trajectory.
+orchard.module.player.PingSpoof	q96.x.lIIlllII	module	PingSpoof [PLAYER] - Spoofs network latency for manual or opponent-matched ping.
+orchard.module.player.StrayUtils	q96.x.IIIIlllII	module	Stray utils [PLAYER] - Utilities for stray FFA gamemodes.
+orchard.module.player.Teams	q96.x.IIIIIIIll	module	Teams [PLAYER] - Prevents modules from targeting players that look like teammates.
+orchard.module.player.WebAssist	q96.x.IlIIlIlI	module	WebAssist [PLAYER] - Allows you to place ONLY cobwebs through entities.
+orchard.module.player.XCarry	q96.x.IIIlllIII	module	XCarry [PLAYER] - Keeps your crafting inventory open server-side for extra storage.
+orchard.module.render.Animations	q96.x.IIlIlI	module	Animations [RENDER] - Custom first-person item animations.
+orchard.module.render.Chinahat	q96.x.IllIIIl	module	Chinahat [RENDER] - Draws a cone hat on player heads.
+orchard.module.render.Cosmetics	q96.x.lllIIllI	module	Cosmetics [RENDER] - Applies a cosmetic cape to your local player.
+orchard.module.render.DivebombESP	q96.x.IIlIllIlI	module	DivebombESP [RENDER] - Draws a three-block heatmap on the ground below every player.
+orchard.module.render.FakeClient	q96.x.IlIlIllII	module	Fake Client [RENDER] - Spoofs client brand and channels for Fabric, Feather, or Lunar.
+orchard.module.render.FakeHacker	q96.x.IIIIIlll	module	FakeHacker [RENDER] - Makes a named player look at you and swing client-side.
+orchard.module.render.Freecam	q96.x.IIIIIlIlI	module	Freecam [RENDER] - Lets the camera fly independently around the world.
+orchard.module.render.FullBright	q96.x.lIllII	module	FullBright [RENDER] - Keeps the world visually bright on the client.
+orchard.module.render.Glow	q96.x.IIlIIIIII	module	Glow [RENDER] - Applies a glowing outline to players using the current client theme.
+orchard.module.render.HitMarker	q96.x.lIllIll	module	HitMarker [RENDER] - Plays a hitmarker sound and draws a marker on your crosshair after a hit.
+orchard.module.render.ItemESP	q96.x.IIIIIIlII	module	ItemESP [RENDER] - Highlights dropped items through walls.
+orchard.module.render.JumpCircle	q96.x.IIlIIIIll	module	JumpCircle [RENDER] - Draws a theme-colored circle where you jumped.
+orchard.module.render.M2DESP	q96.x.IlIlIllIl	module	2D ESP [RENDER] - Projects players as 2D boxes on the HUD.
+orchard.module.render.Nametags	q96.x.IllIIllI	module	Nametags [RENDER] - Renders detailed informative tags above players.
+orchard.module.render.NickSwitcher	q96.x.lIlIII	module	Nick Switcher [RENDER] - Replaces either your visible name or your tracked opponent's visible name and can copy another player's skin.
+orchard.module.render.NoBounce	q96.x.IIllIlII	module	No Bounce [RENDER] - Removes the end crystal hand bounce
+orchard.module.render.NoEffectView	q96.x.lllll	module	NoEffectView [RENDER] - Removes bad status-effect visuals from your camera.
+orchard.module.render.PlayerHider	q96.x.IIlIIll	module	Player Hider [RENDER] - Hides all other players from your local view.
+orchard.module.render.PlayerLocator	q96.x.lIIIlIlI	module	PlayerLocator [RENDER] - Highlights selected players with outlines visible through walls.
+orchard.module.render.PopVisuals	q96.x.lIlIllII	module	PopVisuals [RENDER] - Renders a fading frozen player ghost when a charm pop is received.
+orchard.module.render.RangeFinder	q96.x.IlllIIIl	module	RangeFinder [RENDER] - Draws a 3 block foot circle and warns when opponents enter it.
+orchard.module.render.Rotations	q96.x.lllIIlIl	module	Rotations [RENDER] - Shows silent server head rotations on the local player model.
+orchard.module.render.StashFinder	q96.x.IIIllll	module	StashFinder [RENDER] - Logs nearby clusters of storage containers.
+orchard.module.render.StorageESP	q96.x.IlIlI	module	Storage ESP [RENDER] - Highlights storage containers with colored boxes.
+orchard.module.render.StreamerMode	q96.x.lIIIllI	module	StreamerMode [RENDER] - Moves HUD elements into an external overlay for streaming.
+orchard.module.render.TargetCircle	q96.x.llIIllIl	module	TargetCircle [RENDER] - Renders an animated circle moving up and down around your current target.
+orchard.module.render.Trajectories	q96.x.IIIIIllll	module	Trajectories [RENDER] - Renders predicted projectile paths for held and in-flight projectiles.
+orchard.module.render.Xray	q96.x.IlIllI	module	Xray [RENDER] - Highlights searby ore blocks through walls.
+orchard.net.AuthClient	q96.x.IIIIIlIIl	core	identified from direct evidence
+orchard.net.CloudConfigClient	q96.x.IlIllIII	core	identified from direct evidence
+orchard.net.PacketInterceptor	q96.x.lIlIllIl	core	identified from direct evidence
+orchard.net.SpotifyBridge	q96.x.IlIlll	core	identified from direct evidence

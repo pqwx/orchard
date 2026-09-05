@@ -1,0 +1,11 @@
+AntiBot module heuristics (recovered check names), class nsrc/q96/x/IlIIlI.java:
+
+Air Floating Bot
+Duplicate Identity
+Entity ID Check
+Grace Period
+Invisible Bot Check
+Malformed Identity
+Position Movement
+TabList Absence
+Zero Ping Check

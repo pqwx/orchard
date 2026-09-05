@@ -1,0 +1,119 @@
+COMBAT	Aim Optimizer	Slows mouse movement near targets and releases speed on the hitbox
+COMBAT	AirAnchor	Attempts to place another respawn anchor in the exploded anchor position.
+COMBAT	AntiBot	Detects and ignores anti-cheat bots instantly across servers.
+COMBAT	Auto Crystal	Automatically places & breaks crystals
+COMBAT	Auto Head Web	Places a cobweb at an opponent head when a reachable support block is adjacent.
+COMBAT	Auto Inventory Totem	Briefly opens inventory and moves a totem into your offhand
+COMBAT	Auto Totem	Refills your offhand with a totem after it is missing or pops
+COMBAT	AutoCart	Automatically places a rail and minecart at a flaming arrow impact point.
+COMBAT	AutoDhand	Moves a totem to the main hand after your offhand totem pops.
+COMBAT	AutoHitCrystal	Places an obsidian & a crystal when hitting the ground
+COMBAT	AutoMace	Aims and lands a mace smash on nearby opponents while falling.
+COMBAT	AutoSafeAnchor	Places glowstone on the floor beside a newly placed anchor, toward the player.
+COMBAT	Autoclicker	Automatically clicks at a configurable rate.
+COMBAT	Backtrack	Delays an attacked player's movement packets so their recent position remains hittable.
+COMBAT	BowSpam	Rapidly releases and restarts a held bow at minimum charge.
+COMBAT	BreachSwap	Automatically swaps to a Breach mace during sword attacks, then switches back.
+COMBAT	CartProtection	Places a selected hotbar block between you and a foreign lethal TNT cart.
+COMBAT	Click Crystal	Speeds up repeated block placement without changing attacks or crystal interactions.
+COMBAT	FastAnchor	Automatically explodes interracted & placed anchors.
+COMBAT	FastCart	Places a minecart after you place a rail.
+COMBAT	HitWeb	Places a cobweb under players after you hit them.
+COMBAT	KeyXbow	Automatically preforms a Xbow explosion when looking at the ground.
+COMBAT	KillAura	aim +phit
+COMBAT	Knockback Displacement	Silently displaces knockback direction on hit.
+COMBAT	LagRange	Briefly chokes outbound packets while closing into opponent range.
+COMBAT	MaceSwap	Swaps to your best mace before falling attacks.
+COMBAT	NoMissDelay	Removes the missed-hit attack delay based on chance.
+COMBAT	PlayerFreeze	After hitting a player, holds packets for a fixed time and then flushes them.
+COMBAT	PotAssist	Automatically throws safe splash potions when looking down.
+COMBAT	ShieldBreaker	Switches to an axe and breaks shields on click.
+COMBAT	Spear lunge	Automatically preforms a spear lunge at a click of a button
+HUD	BPS	Shows movement speed in blocks per second in a small HUD cell.
+HUD	Effects	Displays your active potion effects
+HUD	FPS	Shows the current FPS in a small HUD cell.
+HUD	Inventory	Shows a compact inventory item grid.
+HUD	KeybindsHUD	Shows all bound modules and their assigned keys.
+HUD	Module List	Liquid-style arraylist with scalable accents.
+HUD	Notifications	Displays toggle and client notifications.
+HUD	Promo	Displays custom promotional or watermark text on screen with`shadow and color shift.
+HUD	Radar	Clean entity radar with player and mob dots.
+HUD	Spotify	Shows the current Spotify song, album artwork, progress, and synced lyrics.
+HUD	TargetHUD	Shows dynamic target info.
+HUD	Watermark	Client logo watermark.
+INTERFACE	Aim Helper	Removed legacy helper
+INTERFACE	Click Simulations	Simulates mouse clicks for module actions.
+INTERFACE	FakeLag	Removed legacy helper
+INTERFACE	Friends	Keeps selected players out of module targeting.
+INTERFACE	Interface	Global theme color.
+INTERFACE	Panic	Disables all active modules.
+INTERFACE	Unload Orchard	Disables Orchard and releases its runtime hooks until Minecraft restarts.
+INTERFACE	Visual Switch	Visually switches hotbar slots during module actions.
+MOVEMENT	Auto Play	Finds the nearest valid player, approaches safely and hands combat to Kill Aura.
+MOVEMENT	Auto Walk	Automatically walks forward until toggled off or a menu is opened.
+MOVEMENT	CollisionSpeed	Borrows the anticheat's per-entity collision lenience to move faster while pushable entities are near.
+MOVEMENT	Jump Reset	Mitigates velocity by automatically jumping.
+MOVEMENT	KeepSprint	Resets sprint after hits so follow-up hits keep momentum.
+MOVEMENT	Move Fix	Keeps movement physics correct while modules use silent rotations
+MOVEMENT	No Push	Prevents other entities from pushing you via collision.
+MOVEMENT	NoJumpDelay	Removes the vanilla jump cooldown.
+MOVEMENT	Parkour	Automatically jumps when you reach the edge of a block.
+MOVEMENT	PearlChase	Throws an ender pearl to follow escaping opponents.
+MOVEMENT	Perfect Windcharge	Automatically jumps when a wind charge is thrown at your feet.
+MOVEMENT	SnapTap	Makes opposing movement inputs resolve to the most recent direction.
+MOVEMENT	Speed	Legit speed with straight-line equalization or sprint + autojump.
+MOVEMENT	Sprint	Keeps you sprinting like a vanilla toggle sprint.
+MOVEMENT	SprintReset	Instantly resets sprint after successful hits.
+MOVEMENT	SprintReset	Resets sprint on hit via W-Tap or S-Tap for extra knockback.
+MOVEMENT	VClip	Clips you vertically through blocks.
+PLAYER	Auto Reconnect	Reconnects to the last multiplayer server after a configurable delay.
+PLAYER	AutoArmor	Automatically equips the best armor from your inventory.
+PLAYER	AutoDeposit	Automatically deposits selected inventory items into an ender chest.
+PLAYER	AutoDrain	Picks up nearby liquid sources with a bucket.
+PLAYER	AutoGG	Automatically sends a message in chat when you kill someone.
+PLAYER	AutoTool	Automatically switches to the best mining tool and optional weapon slot.
+PLAYER	ChestStealer	Randomly quick-moves items from open chest containers into inventory.
+PLAYER	ElytraSwap	Swaps an elytra or chestplate from the hotbar into your chest slot.
+PLAYER	Extinguish	Auto-douses the player with a water bucket when on fire.
+PLAYER	FakePlayer	Spawns a fake player for testing combat and render modules.
+PLAYER	FastPlace	Removes the right click item-use delay.
+PLAYER	FastXP	Automatically throws experience bottles to repair equipped gear.
+PLAYER	HoverTotem	Instantly offhands a hovered totem.
+PLAYER	InventoryCleaner	Drops junk and weak duplicate armor/tools while inventory is open or NoMove is stationary.
+PLAYER	Legit Scaffold	Sneaks at the edges of blocks
+PLAYER	NoInteract	Blocks right-click interactions with storage blocks.
+PLAYER	Opsec	Your favourite opsec mod, just inside Orchard.
+PLAYER	PearlChase	Automatically throws a counter pearl towards an opponent's thrown ender pearl trajectory.
+PLAYER	PingSpoof	Spoofs network latency for manual or opponent-matched ping.
+PLAYER	Stray utils	Utilities for stray FFA gamemodes.
+PLAYER	Teams	Prevents modules from targeting players that look like teammates.
+PLAYER	WebAssist	Allows you to place ONLY cobwebs through entities.
+PLAYER	XCarry	Keeps your crafting inventory open server-side for extra storage.
+RENDER	2D ESP	Projects players as 2D boxes on the HUD.
+RENDER	Animations	Custom first-person item animations.
+RENDER	Chinahat	Draws a cone hat on player heads.
+RENDER	Cosmetics	Applies a cosmetic cape to your local player.
+RENDER	DivebombESP	Draws a three-block heatmap on the ground below every player.
+RENDER	Fake Client	Spoofs client brand and channels for Fabric, Feather, or Lunar.
+RENDER	FakeHacker	Makes a named player look at you and swing client-side.
+RENDER	Freecam	Lets the camera fly independently around the world.
+RENDER	FullBright	Keeps the world visually bright on the client.
+RENDER	Glow	Applies a glowing outline to players using the current client theme.
+RENDER	HitMarker	Plays a hitmarker sound and draws a marker on your crosshair after a hit.
+RENDER	ItemESP	Highlights dropped items through walls.
+RENDER	JumpCircle	Draws a theme-colored circle where you jumped.
+RENDER	Nametags	Renders detailed informative tags above players.
+RENDER	Nick Switcher	Replaces either your visible name or your tracked opponent's visible name and can copy another player's skin.
+RENDER	No Bounce	Removes the end crystal hand bounce
+RENDER	NoEffectView	Removes bad status-effect visuals from your camera.
+RENDER	Player Hider	Hides all other players from your local view.
+RENDER	PlayerLocator	Highlights selected players with outlines visible through walls.
+RENDER	PopVisuals	Renders a fading frozen player ghost when a charm pop is received.
+RENDER	RangeFinder	Draws a 3 block foot circle and warns when opponents enter it.
+RENDER	Rotations	Shows silent server head rotations on the local player model.
+RENDER	StashFinder	Logs nearby clusters of storage containers.
+RENDER	Storage ESP	Highlights storage containers with colored boxes.
+RENDER	StreamerMode	Moves HUD elements into an external overlay for streaming.
+RENDER	TargetCircle	Renders an animated circle moving up and down around your current target.
+RENDER	Trajectories	Renders predicted projectile paths for held and in-flight projectiles.
+RENDER	Xray	Highlights searby ore blocks through walls.

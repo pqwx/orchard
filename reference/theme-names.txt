@@ -1,0 +1,35 @@
+GUI colour themes declared in q96/x/lllIllI (enum), in order:
+
+  1. Custom
+  2. Ruby
+  3. Tangerine
+  4. Sun
+  5. Lime
+  6. Emerald
+  7. Cyan
+  8. Azure
+  9. Violet
+ 10. Magenta
+ 11. Orchid
+ 12. Neon
+ 13. Sunset
+ 14. Ocean
+ 15. Aurora
+ 16. Dracula
+ 17. Nord
+ 18. Rose Pine
+ 19. Cherry
+ 20. Coral
+ 21. Amber
+ 22. Mint
+ 23. Lagoon
+ 24. Frost
+ 25. Sapphire
+ 26. Grape
+ 27. Candy
+ 28. Slate
+ 29. Mono
+
+The 'Ocean' entry, verbatim from the decompiled enum initialiser:
+
+  154:        IIlIl = new lllIllI("Ocean", lllIllI.lIl(0, 194, 203), lllIllI.lIl(52, 116, 255), lllIllI.lIl(132, 231, 224), lllIllI.lIl(18, 32, 42), lllIllI.lIl(5, 13, 22), lllIllI.lIl(2, 7, 13), lllIllI.lIl(226, 248, 250), lllIllI.lIl(128, 175, 190));
